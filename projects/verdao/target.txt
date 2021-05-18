@@ -1,3 +1,0 @@
-Target|http://www.verdao.net
-IP|64.251.27.30
-Pagina Admin| /admin/

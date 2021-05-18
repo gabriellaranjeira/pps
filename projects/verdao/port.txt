@@ -1,8 +1,0 @@
-PORT     STATE SERVICE
-21/tcp   open  ftp
-53/tcp   open  domain
-80/tcp   open  http
-443/tcp  open  https
-3306/tcp open  mysql
-
-Nmap done: 1 IP address (1 host up) scanned in 8.12 seconds
